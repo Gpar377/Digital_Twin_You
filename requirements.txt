@@ -1,0 +1,14 @@
+# Digital Twin You - Simplified Dependencies for Python 3.13
+
+# Core Framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+
+# Database
+# SQLite3 is built into Python
+
+# Security and Privacy
+cryptography==41.0.7
+
+# Utilities
+python-dateutil==2.8.2
