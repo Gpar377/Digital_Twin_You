@@ -3,6 +3,7 @@ import { Camera, Brain, Zap, Shield, Clock, MapPin, User, Activity, Smartphone }
 import CameraApp from './components/CameraApp';
 import RealTimeLearningDashboard from './components/RealTimeLearningDashboard';
 import SamsungEcosystemDemo from './components/SamsungEcosystemDemo';
+import ErrorBoundary from './components/ErrorBoundary';
 import { getBehaviorProfile, learnBehavior } from './services/api';
 import './App.css';
 
@@ -190,6 +191,7 @@ function App() {
   );
 
   return (
+    <ErrorBoundary>
     <div className="w-full max-w-7xl mx-auto bg-white shadow-2xl rounded-2xl overflow-hidden">
       {currentView === 'home' && <HomeScreen />}
       {currentView === 'camera' && (
@@ -233,6 +235,7 @@ function App() {
         </div>
       )}
     </div>
+    </ErrorBoundary>
   );
 }
 
