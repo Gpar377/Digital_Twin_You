@@ -222,8 +222,8 @@ class PrivacyManager {
 ## 🎥 Submissions
 
 ### Demo Video
-- **Drive Link**: 
-- **Duration**: 6 minutes
+- **Drive Link**: https://drive.google.com/file/d/1lcr3eMdMIdMgSUOoCj4rrXrNZAqLj-ps/view?usp=sharing
+- **Duration**: 5 minutes
 - **Content**: Live behavioral learning demonstration
 
 ### Supporting Documents
