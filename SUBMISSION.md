@@ -4,7 +4,7 @@
 
 ### 🎥 Demo Video
 **YouTube**: https://drive.google.com/file/d/1lcr3eMdMIdMgSUOoCj4rrXrNZAqLj-ps/view?usp=sharing
-- **Duration**: 6 minutes
+- **Duration**: 5 minutes
 - **Content**: Live AI learning demonstration, Samsung ecosystem integration
 
 ### 📋 Submission Documents
