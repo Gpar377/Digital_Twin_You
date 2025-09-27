@@ -222,7 +222,7 @@ class PrivacyManager {
 ## 🎥 Submissions
 
 ### Demo Video
-- **YouTube**: [Digital Twin You - Live Demo](https://youtube.com/watch?v=demo-link)
+- **Drive Link**: 
 - **Duration**: 6 minutes
 - **Content**: Live behavioral learning demonstration
 
@@ -246,15 +246,9 @@ digital-twin-you/
 ## 🤝 Team Information
 
 **Team Name**: DigitalTwinYou  
-**College**: [Your College]  
+**College**: SRM Institute of Science and Technology  
 **Theme**: Generative AI for Mobile Experience  
-**Team Lead**: [Your Name]
-
-## 📞 Contact
-
-- **Email**: [your-email@domain.com]
-- **GitHub**: [github.com/username/digital-twin-you]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
+**Team**: Parthiv, Yashwant, Pranay Biswas, Trimman
 
 ---
 
