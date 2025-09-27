@@ -77,8 +77,8 @@ An on-device AI system that:
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/[username]/digital-twin-you.git
-cd digital-twin-you
+git clone https://github.com/Gpar377/Digital_Twin_You.git
+cd Digital_Twin_You
 ```
 
 2. **Backend Setup**
@@ -227,20 +227,21 @@ class PrivacyManager {
 - **Content**: Live behavioral learning demonstration
 
 ### Supporting Documents
-- **Architecture Document**: `DigitalTwinYou_Architecture.pdf`
-- **Technical Specifications**: `DigitalTwinYou_TechSpecs.pdf`
-- **Business Impact Analysis**: `DigitalTwinYou_BusinessCase.pdf`
+- **Technical Presentation**: `Digital-Twin-You.pdf`
+- **Stakeholder Analysis**: `STAKEHOLDERS.md`
+- **Technical Assumptions**: `ASSUMPTIONS_WORKAROUNDS.md`
 
 ### Repository Structure
 ```
-digital-twin-you/
+Digital_Twin_You/
 ├── README.md                 # This file
 ├── requirements.txt          # Python dependencies
-├── DigitalTwinYou.pdf       # Supplementary document
+├── Digital-Twin-You.pdf     # Technical presentation
+├── STAKEHOLDERS.md          # Stakeholder analysis
+├── ASSUMPTIONS_WORKAROUNDS.md # Technical assumptions
 ├── frontend/                # React camera simulator
 ├── backend/                 # Python AI engine
-├── docs/                    # Additional documentation
-└── demo/                    # Demo assets and scripts
+└── archive/                 # Archived files
 ```
 
 ## 🤝 Team Information
